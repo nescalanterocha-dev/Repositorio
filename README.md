@@ -3,5 +3,7 @@
 ## Instalación
 D
 ```
-Aquí se pone código
+void solve(){
+  cout << "Hola Mundo" << "\n";
+"}
 ```
