@@ -3,7 +3,7 @@
 ## Instalación
 
 Descripción de cómo se instala. Por ejemplo comandos
-```
+```bash
 sudo apt - install porotoconrienda
 ```
 
