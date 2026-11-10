@@ -1,9 +1,7 @@
-# Repositorio
-Primer Repositorio
+# Repositorio ejemplo
 
-## Fecha
-$10$-$11$-$2026$
-
-Notemos que 
-
-$$10 + 11 + 20 + 26 = 67$$
+## Instalación
+D
+```
+Aquí se pone código
+```
