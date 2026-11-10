@@ -2,7 +2,7 @@
 Primer Repositorio
 
 ## Fecha
-10-11-2026
+$10$-$11$-$2026$
 
 Notemos que 
 
